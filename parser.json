@@ -1,7 +1,7 @@
 {
-  "lang": "fortran",
-  "semver": false,
-  "parser_version": "be30d90dc7dfa4080b9c4abed3f400c9163a88df",
   "location": null,
-  "url": "https://github.com/stadelmanma/tree-sitter-fortran"
+  "parser_version": "be30d90dc7dfa4080b9c4abed3f400c9163a88df",
+  "url": "https://github.com/stadelmanma/tree-sitter-fortran",
+  "semver": false,
+  "lang": "fortran"
 }
